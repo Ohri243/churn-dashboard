@@ -31,7 +31,7 @@ This project is a **Power BI Dashboard** built to analyze and visualize customer
 ## 🔧 Setup Instructions  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/churn-dashboard.git
+   git clone https://github.com/Ohri243/churn-dashboard.git
 Open the .pbix file in Power BI Desktop
 
 Load the dataset from the data folder (if not already connected)
