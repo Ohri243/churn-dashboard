@@ -22,15 +22,6 @@ This project is a **Power BI Dashboard** built to analyze and visualize customer
 ┣ 📁 screenshots # Dashboard screenshots
 ┗ 📄 README.md # Project documentation
 
-bash
-Copy
-Edit
-
-## 📸 Dashboard Preview  
-_Add some screenshots here for a better showcase._  
-Example:  
-![Churn Dashboard Screenshot](screenshots/churn_dashboard.png)
-
 ## 📈 Key Insights  
 - Customers with shorter tenure are more likely to churn  
 - High churn observed in customers with multiple complaints  
